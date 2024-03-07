@@ -1,0 +1,38 @@
+html,
+body {
+  height: 100%;
+  margin: 0 auto;
+  background-image: url('https://th.bing.com/th/id/R.aae26e2a9cc739a7adc8ebfd33329b05?rik=h9%2fqwKS6LPYy0Q&pid=ImgRaw&r=0');
+  background-size: cover;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 30px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="text"] {
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
